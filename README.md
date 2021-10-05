@@ -1,2 +1,2 @@
 # bilibili_crawler
-a web crawler for bilibili in python
+Just a toy for fun.
